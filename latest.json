@@ -1,8 +1,8 @@
 {
- "versionCode": 3,
- "versionName": "0.3",
- "file": "familytalk-3.apk",
- "sha256": "bd0a3af55fb3b8ab841a5934c2212b744bd5b8cc5aa67f2ea3e36138556b1994",
- "size": 30914299,
- "notes": "업데이트 버튼이 생겼어요"
+ "versionCode": 4,
+ "versionName": "0.4",
+ "file": "familytalk-4.apk",
+ "sha256": "f8ab0f04c2b98ddc8669dda43336e3fad0f5f5b367eb8a0246b7727c0ca0ec4c",
+ "size": 30947139,
+ "notes": "가족 위치 보기(아빠만) 추가"
 }
