@@ -1,8 +1,8 @@
 {
- "versionCode": 5,
- "versionName": "0.5",
- "file": "familytalk-5.apk",
- "sha256": "824752c38375b3a8a741348b57a2be738a0a4a1e01b59a1ff3405aeb80431659",
- "size": 30963523,
- "notes": "고른 사람끼리 그룹 대화방"
+ "versionCode": 6,
+ "versionName": "0.6",
+ "file": "familytalk-6.apk",
+ "sha256": "b1004582e5d181e161ca1f774de80cba33575e0c8ecb363c60f9efb13eade048",
+ "size": 30963619,
+ "notes": "영상통화(카메라 토글) 추가"
 }
